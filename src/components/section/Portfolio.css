@@ -1,0 +1,26 @@
+.img1{
+    height: 250px;
+}
+.paper{
+  column-count: 3;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.paper2{
+  column-count: 2;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.bottom-left {
+  position: relative;
+  bottom: 150px;
+}
+.bottom-right{
+  position: relative;
+  
+}
+
